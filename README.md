@@ -9,7 +9,7 @@ Mortal Kombat foi o tema escolhido para a criação deste Scroll Website. Basta 
 <strong>Se divirta nesta pequena imersão!<strong/>
 
 
-![image](https://user-images.githubusercontent.com/106918230/183761015-fdd6e843-6f22-4197-a4d4-10c1e39dc241.png) ![image](https://user-images.githubusercontent.com/106918230/183761105-3fabe315-49dd-430e-b169-27453d3a7f4c.png) ![image](https://user-images.githubusercontent.com/106918230/183759554-1b79ab9c-ad3d-4ddc-99e3-bd597f4c4874.png)![image](https://user-images.githubusercontent.com/106918230/183762472-9de96b14-a333-41f6-9f30-90dfd5d05eda.png)
+![image](https://user-images.githubusercontent.com/106918230/183761015-fdd6e843-6f22-4197-a4d4-10c1e39dc241.png) ![image](https://user-images.githubusercontent.com/106918230/183761105-3fabe315-49dd-430e-b169-27453d3a7f4c.png) ![image](https://user-images.githubusercontent.com/106918230/183759554-1b79ab9c-ad3d-4ddc-99e3-bd597f4c4874.png)
 <br/>
 ![image](https://user-images.githubusercontent.com/106918230/183761376-bccfd97c-ec17-48f5-82da-88f404fbaa15.png)
 
