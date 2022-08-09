@@ -7,6 +7,9 @@ Mortal Kombat foi o tema escolhido para a criação deste Scroll Website. Basta 
 <br/>
 <br/>
 <strong>Se divirta nesta pequena imersão!<strong/>
+<br/>
+<br/>
+GitHub Pages: https://igorbandeira.github.io/Scroll-Website-MK/
 
 
 ![image](https://user-images.githubusercontent.com/106918230/183761015-fdd6e843-6f22-4197-a4d4-10c1e39dc241.png) ![image](https://user-images.githubusercontent.com/106918230/183761105-3fabe315-49dd-430e-b169-27453d3a7f4c.png) ![image](https://user-images.githubusercontent.com/106918230/183759554-1b79ab9c-ad3d-4ddc-99e3-bd597f4c4874.png)
