@@ -37,7 +37,7 @@ button4.addEventListener("click", function () {
 });
 button5.addEventListener("click", function () {
   alert(
-    "Você é numa pessoa nobre em vários sentidos, mas nem de longe você é delicada - mais do que isso: você é uma grande guerreira. Mas você precisa conhecer mais sobre seu passado e seus aliados, pois você pode estar suscetível a ser enganada por muita gente interesseira - até mesmo da sua família!"
+    "Você é uma pessoa nobre em vários sentidos, mas nem de longe você é delicada - mais do que isso: você é uma grande guerreira. Mas você precisa conhecer mais sobre seu passado e seus aliados, pois você pode estar suscetível a ser enganada por muita gente interesseira - até mesmo da sua família!"
   );
 });
 button6.addEventListener("click", function () {
